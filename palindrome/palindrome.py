@@ -1,7 +1,7 @@
 def isPalindrome(s):
-
-    #changes
-    if s == s[::-1].:
+    
+   
+    if s.lower() == s[::-1].lower():
         print("The given string is Palindrome")
     else:
         print("The given string is not a Palindrome")
