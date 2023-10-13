@@ -1,11 +1,9 @@
-
-def isPalindrome(a):
-    if str == str_rev:
+def isPalindrome(s):
+    if s.lower() == s[::-1].lower():
         print("The given string is Palindrome")
     else:
         print("The given string is not a Palindrome")
 
-str = input ("Enter a string : ")
-str_rev = str[::-1]
-print("The reverse of the string is",str_rev)
-palindrome = isPalindrome(str)
+str_input = input ("Enter a string : ")
+print("The reverse of the string is", str_input[::-1])
+isPalindrome(str_input)
