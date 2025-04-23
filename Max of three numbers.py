@@ -14,3 +14,4 @@ c=int(input("Enter the third number : "))
 
 max=max_of_three_numbers(a,b,c)
 print("The maximum of three numbers is ",max)
+ 
