@@ -6,7 +6,7 @@ def max_of_three_numbers(a,b,c):
     elif c>a and c>b:
         return c
     else:
-        return 
+        return  
     
 a=int(input("Enter the first number : "))
 b=int(input("Enter the second number : "))
