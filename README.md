@@ -6,8 +6,7 @@ SIMPLE PYTHON PROGRAM TO IMPLEMENT FUNCTIONS (for the folder "week 10 java")
 However, if the sum is between 120 to 320 it will return 200.
 2. Implement a python function to find the Maximum of Three numbers.
 3. Write a python program to calculate the Factorial of a given number.
-4. Write a python program to Check if a Number is Even or Odd and also check whether 
-it is Prime or not.
+4. Write a python program to Check if a Number is Even or Odd and also check whether it is Prime or not.
 5. Implement a python function to Reverse a given String and also check for palindrome
 or not.
 6. Write a python program to Generate Fibonacci Sequence.
