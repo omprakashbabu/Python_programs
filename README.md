@@ -16,5 +16,5 @@ shapes (circle, rectangle, triangle, etc.).
 8. Implement a python function to Convert Celsius to Fahrenheit and Fahrenheit to
 Celsius.
 9. Write a Python program that accepts a string and counts the number of upper and
-lower case letters.
+lower case letters. 
 10. Write a python program to perform Arithmetic operations on Complex Numbers.
